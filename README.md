@@ -40,6 +40,12 @@ Just open `index.html` in your browser.
 - Clean and responsive UI
 
 ---
+📸 Preview
+
+<img width="699" height="515" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/1adcec6a-940a-412a-8dc4-b2cbc575f1c5" />
+
+
+---
 
 ## 🛠️ Built With
 
